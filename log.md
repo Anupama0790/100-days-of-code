@@ -1,9 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 
+### Day 2: August 7 2019
 ##### (delete me or comment me out)
 
-**Today's Progress**: I have started working on 100 question on Python. Currently woring on Ques19. Will commit my project once done with 25 questions
+**Today's Progress**: completed my course on java script 
+                      continued doing 100 question of python
 
 **Thoughts:** Creating a cheat sheet for python
 
